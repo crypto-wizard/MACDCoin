@@ -1,0 +1,9 @@
+Building MACDCoin
+
+See doc/readme-qt.rst for instructions on building MACDCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MACDCoin.
+
+See doc/build-*.txt for instructions on building MACDCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MACDCoin.
